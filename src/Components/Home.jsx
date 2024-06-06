@@ -21,7 +21,7 @@ export const Home = () => {
 
               <a
                 className="animate-pulse bg-primary py-3 px-8 text-white rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out"
-                href="resume/Fisi%20Shella%20Hayagi%20R_50421528_KA_M5.pdf"
+                href="https://drive.google.com/file/d/1qx6DOLvKpHudnLU3oXTTssq8TzRpIbP2/view"
                 download="FisishellaHR-Portofolio"
               >
                 Let`s See My CV
